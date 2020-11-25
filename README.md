@@ -1,4 +1,4 @@
- TP---Properati v 0.17 (Actualemnte: graficando los scores de los modelos)(Ideas: replicar con Statsmodels, refactorizar.)
+ TP---Properati v 0.17 (Actualemnte: graficando los scores de los modelos)(Ideas: replicar con Statsmodels, refactorizar, comentar)
 
  Análisis de un DataFrame de datos de propiedades inmobiliarias argentinas del 2003 para predecir el Precio(USD)/m^2 de la propiedad.
  
