@@ -1,10 +1,7 @@
- TP---Properati v 0.17 (Actualemnte: graficando los scores de los modelos) - (Ideas: replicar con Statsmodels, refactorizar, comentar codigo)
+Analysis of a DataFrame of Argentine real estate data from 2003 to predict the Price (USD) / m ^ 2 of the property.
 
- Análisis de un DataFrame de datos de propiedades inmobiliarias argentinas del 2003 para predecir el Precio(USD)/m^2 de la propiedad.
- 
- En la primer parte se utilizan expresiones regulares para llenar valores faltantes y luego se eliminan outliers. 
+In the first part, regular expressions are used to fill in missing values ​​and then outliers are removed.
 
- En la segunda parte se utilizan modelos de regresiones lineales con y sin regularización de Scikit-Learn: (LassoCV,RidgeCV,ElasticNet,LinearRegression) para predecir el Precio(USD)/m^2 de la propiedad.
- 
- Se grafica información estadística usando Seaborn, Matplotlib y YellowBrick.
+In the second part, Scikit-Learn linear regression models with and without regularization are used: (LassoCV, RidgeCV, ElasticNet, LinearRegression) to predict the Price (USD) / m ^ 2 of the property.
 
+Statistical information is plotted using Seaborn, Matplotlib, and YellowBrick.
